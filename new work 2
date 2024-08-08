@@ -1,0 +1,13 @@
+#red_bucket = "malawi"
+#print(red_bucket)
+
+car_age = 10
+car_milage = 1000
+
+if car_age < car_milage:
+    print("car has hard a rough time")
+elif car_age != car_milage:
+    print("we will die in this car")
+else:
+    print("car should be sold for scrap")
+        
