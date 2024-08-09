@@ -1,5 +1,5 @@
-#red_bucket = "malawi"
-#print(red_bucket)
+red_bucket = "malawi"
+print(red_bucket)
 
 car_age = 10
 car_milage = 1000
